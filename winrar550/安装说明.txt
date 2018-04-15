@@ -1,0 +1,2 @@
+把wrar550sc.exe/winrar-x64-550sc.exe和rarreg.key放进同一个文件夹
+安装就是已经注册的了
